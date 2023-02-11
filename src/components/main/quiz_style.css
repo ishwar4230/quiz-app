@@ -1,0 +1,32 @@
+.qns{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.card{
+    height: 250px;
+    width: 80%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-top: 20px;
+    border-radius: 20px;
+    font-size: 160%;
+    padding-left: 20px;
+}
+.sbmt{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#sb{
+    width: 100px;
+    height: 40px;
+    font-size: 150%;
+    border-radius: 10px;
+}
+.sbmt :hover{
+    background-color: rgb(159, 165, 163);
+}
